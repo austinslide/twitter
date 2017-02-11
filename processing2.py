@@ -1,3 +1,5 @@
+#good template for taking an input text file and parsing through it
+#using specific terms specified in here for frequenct counts and plots
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
