@@ -1,4 +1,5 @@
 #simple script for pulling data from twitter based on the search terms in last line
+#based on http://adilmoujahid.com/posts/2014/07/twitter-analytics/ 
 #Import the necessary methods from tweepy library
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler

@@ -1,4 +1,6 @@
 #DO THIS LATER
+#this is the same as the tutorial http://adilmoujahid.com/posts/2014/07/twitter-analytics/
+#want to modify this to include geo info but not done/ working yet
 
 #Import the necessary methods from tweepy library
 from tweepy.streaming import StreamListener

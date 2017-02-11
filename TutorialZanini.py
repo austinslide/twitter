@@ -1,10 +1,13 @@
+#used the https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
+#tutorial for this... can be run to pull data from twitter api using my apple
+#and run on command line specifying query and data directory outputting json
 # To run this code, first edit config.py with your configuration, then:
 #
 # mkdir data
-# python twitter_stream_download.py -q apple -d data
+# python twitter_stream_download.py -q "your query" -d data
 #
-# It will produce the list of tweets for the query "apple"
-# in the file data/stream_apple.json
+# It will produce the list of tweets for the query "???"
+# in the file data/stream_queryName.json
 
 import tweepy
 from tweepy import Stream

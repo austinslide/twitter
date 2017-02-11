@@ -1,3 +1,6 @@
+#from the zanini tutorial
+#https://marcobonzanini.com/2015/03/17/mining-twitter-data-with-python-part-3-term-frequencies/
+
 import operator
 import json
 from collections import Counter
